@@ -2,7 +2,7 @@ Remote
 
 Sample text
 Added //featureA
-
+ConflictLines
 
 Local
 After local //Main branch
