@@ -1,0 +1,13 @@
+code -> changes -> remote repo
+
+pull -> fetch + merge
+
+Local->
+main(a.txt) -> featureA(a.txt)+(b.txt)
+after
+main(a.txt)(b.txt) -> featureA(a.txt)+(b.txt)
+
+Master (main)->dev-> test->QA-> Prod-> preProd
+Dev->feature->work
+
+Clone->Push->Pull->Branch(Merge, rebase)-Comit
